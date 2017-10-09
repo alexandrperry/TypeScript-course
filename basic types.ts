@@ -13,4 +13,3 @@ let numArr:number[] = [0,1,2];
 let strArr:Array<string> = ['hi','hello'];
 
 let arr:[number,string] = [1,'hi'];
-
